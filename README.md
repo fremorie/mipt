@@ -1,2 +1,2 @@
 # mipt
-Just few MIPT labs
+study projects
